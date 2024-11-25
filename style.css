@@ -5,10 +5,10 @@ body{
     margin: 0px;
     margin-bottom: 100px;
 }
-.chamda{
+.chamada{
  background: rgb(255, 182, 193);
  margin-top: 80px;
- margin-bottom 80px; 
+ margin-bottom: 80px; 
 display: flex;
 justify-content: center;
 }
@@ -31,12 +31,12 @@ h1{
     margin-top: 50px;
 
 }
-.categoria-videos:{
+.categoria-videos{
     display: flex;
     overflow-x: auto;
     gap: 10px;
 }
-.categoria-videos: img{
+.categoria-videos img{
     height: 200px;
     opacity: 0.5;
 }
